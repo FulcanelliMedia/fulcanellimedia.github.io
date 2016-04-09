@@ -1,0 +1,11 @@
+Sitemap: https://www.fulcanelli.xyz/sitemap.xml
+
+User-agent: *
+allow: /*
+
+User-agent: *
+Disallow: /assets/
+Disallow: /cgi-bin/
+Disallow: /new/
+Disallow: /versions/
+Disallow: /cdn-cgi/
